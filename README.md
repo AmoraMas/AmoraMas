@@ -1,29 +1,30 @@
-## 👋 Helloooooo!
+## :wave: Helloooooo!
 ### My name is Melvin Richardson
 ### Full Stack Developer
 <br>
 
-I am currently expanding my skillset with Galvanize Inc. until June 2023.
+I am currently expanding my skillset with Galvanize Inc. until :calendar:June 2023.
 <hr>
 <br>
 
 ## Who am I
 - I am a work in progress, as I believe that we all are.
 
-- Living in the Central Colorado, :us: area.
-- Please email me at [amoramas1984@gmail.com](mailto:amoramas1984@gmail.com)
-- I've been coding small personal projects off and on since first learning HTML over 2 decades ago.
-  - Now I want to help build some projects for a larger user base.
+- :us: Living in the Central Colorado area.
+- :mailbox: Please email me at [amoramas1984@gmail.com](mailto:amoramas1984@gmail.com)
+- :watch: I've been coding small personal projects off and on since first learning HTML over 2 decades ago.
+  - :pencil: Now I want to help build some projects for a larger user base.
+  - :raising_hand: I'm also interested in collaborating on a project together
 <br><br>
 
 ## Current Skills
 - CSS
 - HTML
 - JavaScript
+- Mark Down
 - Powershell
 - Python
 - React
-
 
 <br>
 
