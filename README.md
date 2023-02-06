@@ -22,7 +22,7 @@ I am currently expanding my skillset with Galvanize Inc. until :calendar:June 20
 - CSS
 - HTML
 - JavaScript
-- Mark Down
+- Markdown
 - Powershell
 - Python
 - React
