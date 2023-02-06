@@ -10,11 +10,12 @@ I am currently expanding my skillset with Galvanize Inc. until :calendar:June 20
 ## Who am I
 - I am a work in progress, as I believe that we all are.
 
-- :us: Living in the Central Colorado area.
-- :mailbox: Please email me at [amoramas1984@gmail.com](mailto:amoramas1984@gmail.com)
-- :watch: I've been coding small personal projects off and on since first learning HTML over 2 decades ago.
-  - :pencil: Now I want to help build some projects for a larger user base.
-  - :raising_hand: I'm also interested in collaborating on a project together
+- Living in the Central Colorado, USA area.
+- Please email me at [amoramas1984@gmail.com](mailto:amoramas1984@gmail.com)
+- I've been coding small personal projects off and on since first learning HTML over 2 decades ago.
+  - Now I want to help build some projects for a larger user base.  
+
+  - I'm also interested in collaborating on a project together
 <br><br>
 
 ## Current Skills
