@@ -9,9 +9,9 @@
 
 A work in progress is what I am, as I believe that we all are.
 
-My name is Mel. I am a junior full-stack developer living in entral Colorado, USA. I've been coding small personal projects off and on since first learning HTML over 2 decades ago. Now, I want to help build something for a larger user base.
+My name is Mel. I am a junior full-stack developer living in central Colorado, USA. I've been coding small personal projects off and on since first learning HTML over 2 decades ago. Now, I want to help build something for a larger user base.
 
-Want to know more about me? [Check out my portfolio.]()
+<!-- Want to know more about me? [Check out my portfolio.]() -->
 
 <!-- ## :pencil: Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -50,6 +50,7 @@ Want to know more about me? [Check out my portfolio.]()
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
 <details>
